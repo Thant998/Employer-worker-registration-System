@@ -17,9 +17,9 @@ An accounting program that contains employee and employer information and record
 ---
 
 ## Requirements
-Postgresql is used in this program. You can find the necessary jar file for postgresql java connection here:
+MySql is used in this program. 
 
-> https://jdbc.postgresql.org/download.html
+
 
 Or you can use a different database but for this to work, change:
 ```
@@ -27,7 +27,7 @@ DriverManager.getConnection("jdbc:database://host:port/database-name", "user-nam
 ```
 for postgresql:
 ```
-DriverManager.getConnection("jdbc:postgresql://localhost:5432/db", "postgres", "password");
+DriverManager.getConnection("jdbc:mysql://localhost:3306/db", "root", "sHj@6378#jw");
 ```
 ---
 
