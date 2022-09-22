@@ -6,9 +6,9 @@ An accounting program that contains employee and employer information and record
 <p align="center"><strong>Login</strong></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/71611710/157845415-c8f293df-5e1a-4ac5-a066-1971ee3ab6ae.png"></p>
 
-| **Homepage**            | **Employer registration**|  **Worker registration**
-:------------------------:|:------------------------:|:-------------------------:
-![2-home_page](https://user-images.githubusercontent.com/71611710/157845986-0b99502d-ec6a-411c-999c-d37859dcf47e.png) | ![3-new_employer](https://user-images.githubusercontent.com/71611710/157849241-2a4ea23f-f195-4152-ab57-b2da20a1ea87.png)  |  ![3-new_worker](https://user-images.githubusercontent.com/71611710/157849850-5c6cfda1-05cd-4164-8287-474496cd189e.png)
+ **Employer registration**|  **Worker registration**
+:------------------------:|:------------------------:
+ ![3-new_employer](https://user-images.githubusercontent.com/71611710/157849241-2a4ea23f-f195-4152-ab57-b2da20a1ea87.png)  |  ![3-new_worker](https://user-images.githubusercontent.com/71611710/157849850-5c6cfda1-05cd-4164-8287-474496cd189e.png)
 
 | **Search Box**  | **Registration document**
 :----------------:|:-------------------------:
