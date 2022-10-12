@@ -22,11 +22,11 @@ MySql is used in this program.
 
 Or you can use a different database but for this to work, change:
 ```
-DriverManager.getConnection("jdbc:database://host:port/database-name", "user-name", "password");
+DriverManager.getConnection("jdbc:database://host:port/database-name", "user-name", "password")
 ```
 for postgresql:
 ```
-DriverManager.getConnection("jdbc:mysql://localhost:3306/db", "root", "sHj@6378#jw");
+DriverManager.getConnection("jdbc:mysql://localhost:3306/db", "root", "sHj@6378#jw")
 ```
 ---
 
