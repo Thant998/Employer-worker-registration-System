@@ -19,7 +19,6 @@ An accounting program that contains employee and employer information and record
 MySql is used in this program. 
 
 
-
 Or you can use a different database but for this to work, change:
 ```
 DriverManager.getConnection("jdbc:database://host:port/database-name", "user-name", "password")
