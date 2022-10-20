@@ -23,7 +23,7 @@ Or you can use a different database but for this to work, change:
 ```
 DriverManager.getConnection("jdbc:database://host:port/database-name", "user-name", "password")
 ```
-for postgresql:
+for MySQL:
 ```
 DriverManager.getConnection("jdbc:mysql://localhost:3306/db", "root", "sHj@6378#jw")
 ```
